@@ -1,2 +1,2 @@
 CI/CD pipline with jenkins
-test Jenkins CI
+test Jenkins CI/CD
